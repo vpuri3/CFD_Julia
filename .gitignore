@@ -4,3 +4,4 @@
 deps/deps.jl
 .*.swp
 .DS_STORE
+Manifest.toml
